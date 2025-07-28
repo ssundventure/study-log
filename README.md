@@ -19,10 +19,12 @@
 
 
 ### 📚 JAVASCRIPT
+- [익명함수]
 - [화살표 함수](./Front-End/03_JavaScript/arrow-function.md)
+- [콜백함수](./Front-End/03_JavaScript/callback-function.md)
 - [...전개구문](./Front-End/03_JavaScript/spread-operator.md)
 - [console.trace()](./Front-End/03_JavaScript/console-trace.md)
-- [콜백함수](./Front-End/03_JavaScript/callback-function.md)
+
 ---
 
 

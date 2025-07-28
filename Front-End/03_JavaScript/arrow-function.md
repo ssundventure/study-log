@@ -8,7 +8,7 @@
 
 2. 화살표 함수에서 중괄호 {}
 
-`const add = (a,b) => { a + b;}`
+`const add = (a,b) => { return a + b;}`
 -> 중괄호를 사용하여 함수 본문으로 간주되며, return값을 써야 반환된다.
 
 `const add = (a,b) => a + b;`
