@@ -14,3 +14,4 @@
 `setTimeout(function(){ console.log("3초 후 실행");},3000)` 
 함수를 따로 선언해서 이름을 붙이면 더 길어지고 복잡해진다.
 흐름상 이름 없이 전달하는 익명함수를 쓴다. 
+`setTimeout(()=> console.log("3초 후 실행"),3000)`

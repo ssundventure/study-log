@@ -36,7 +36,7 @@
 
 ### 📚 REACT
 - [리액트 시작하기](./Front-End/05_React/react-setting.md)
-- [jsx tsx]
+- [jsx](./Front-End/05_React/jsx.md)
 ---
 
 ### 📚 NEXTJS	
