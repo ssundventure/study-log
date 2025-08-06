@@ -3,7 +3,7 @@
 
 ---
 ### 🤨 TROUBLE SHOOTING
-- [useEffect의 실행시점과, 새로고침 시 localStorage 초기화되는 문제](./Front-End/Trouble-Shooting/)
+- [useEffect의 실행시점과, 새로고침 시 localStorage 초기화되는 문제](./Front-End/Trouble-Shooting/useEffect-localStorage-bug.md)
 - [display:flex|hidden의 우선순위](./Front-End/Trouble-Shooting/display-priority.md)
 ---
 
