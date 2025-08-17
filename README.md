@@ -16,6 +16,7 @@
 - [position 속성정리](./Front-End/02_Css/position.md)
 - [css에서 상대적, 절대적 개념](./Front-End/02_Css/relative-and-absolute.md)
 - [삼각형 만드는법](./Front-End/02_Css/make-triangle.md)
+- [flex:1의 의미](./Front-End/02_Css/flex-1.md)
 ---
 
 
