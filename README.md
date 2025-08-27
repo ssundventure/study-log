@@ -26,6 +26,7 @@
 - [콜백함수](./Front-End/03_JavaScript/callback-function.md)
 - [...전개구문](./Front-End/03_JavaScript/spread-operator.md)
 - [console.trace()](./Front-End/03_JavaScript/console-trace.md)
+- [DevTools의 라이브 뷰 특성](./Front-End/03_JavaScript/devTools-live-view.md)
 
 ---
 
